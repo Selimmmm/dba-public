@@ -20,7 +20,6 @@
 - Suivre la [documentation officielle](https://www.postgresql.org/download/)
 - Tester ensuite la connexion avec `connect/postgresql.ipynb`
 
-
 ## Installer MongoDB 
 
 **Vous pouvez tout faire avec le cluster MongoDB.com, moyennant des temps de calculs parfois plus longs. Sinon, vous pouvez installer MongoDB localement.**
@@ -28,6 +27,11 @@
 
 
 # TPs
+
+## TP 1 
+- Si besoin, pour se connecter à la BDD northwind avec VS Code : `setup/setup_vscode.ipynb`
+
+## TP 2
 
 
 # Projet en classe
