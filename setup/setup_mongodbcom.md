@@ -33,9 +33,17 @@
 #### Choisir : 
 
 - Authentification avec username et password **Penser à sauvegarder le mot de passe**
-- Se conncter depuis sa marchine : ajouter son IP
+    - Créer un fichier `.env` à la racine de votre dossier avec le contenu des variables `user` et `password` : 
+    ```
+    MONGO_DB_USER=<user>
+    MONGO_DB_PASSWORD=<pass>
+    ```
 
 ![MongoDB](../images/mongodb_third_form_1.png)
+
+
+- Se connecter depuis sa machine : ajouter son IP à la whitelist
+
 
 ![MongoDB](../images/mongodb_third_form_2.png)
 
