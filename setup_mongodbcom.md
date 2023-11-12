@@ -32,7 +32,7 @@
 
 #### Choisir : 
 
-- Authentification avec username et password
+- Authentification avec username et password **Penser à sauvegarder le mot de passe**
 - Se conncter depuis sa marchine : ajouter son IP
 
 ![MongoDB](images/mongodb_third_form_1.png)
