@@ -12,16 +12,18 @@
 
 
 ## Installer PostgreSQL v14 (et >= 14.8) 
+
 **Installer PostgreSQL version 14.10 par exemple**
 
 **Si vous ne souhaitez pas toucher à une version déjà installée, il faut juste qu'elle soit >= 14**
 
-[Documentation officielle](https://www.postgresql.org/download/)
+- Suivre la [documentation officielle](https://www.postgresql.org/download/)
+- Tester ensuite la connexion avec `connect/postgresql.ipynb`
 
 
 ## Installer MongoDB 
-**Vous pouvez tout faire avec le cluster MongoDB.com, moyennant des temps de calculs parfois plus longs. Sinon, vous pouvez installer MongoDB localement.**
 
+**Vous pouvez tout faire avec le cluster MongoDB.com, moyennant des temps de calculs parfois plus longs. Sinon, vous pouvez installer MongoDB localement.**
 - Tutoriel `setup/setup_mongodb.md`
 
 
