@@ -1,6 +1,6 @@
 
 
-# Environnement virtuel avec pyenv
+# Environnement virtuel Python 3.11.2 avec pyenv
 
 
 ## Création
@@ -17,8 +17,39 @@ source env/bin/activate
 
 ## Vérification
 
+```bash
+# tout en ayant l'environnement virtuel activé
+which pip
+# Doit afficher un vers le dossier env qui a été créé 
+```
+
+
 ## Installer les dépendances
 
+(Contient  `jupyter` et `ipykernel`)
+
+```bash
+# tout en ayant l'environnement virtuel activé
+pip3 install requirements.txt
+```
 
 
+## Enregistrer l'environnement virtuel
+
+```
+# tout en ayant l'environnement virtuel activé
+python -m ipykernel install --name ENV_DBA --display-name ENV_DBA --user
+```
+
+
+
+## Exécuter jupyter-lab
+
+```bash
+# tout en ayant l'environnement virtuel activé
+# rajouter le chemin complet pour être sûr de bien exécuter Jupyter depuis l'environnement virtuel
 env/bin/jupyter-lab
+```
+
+
+
