@@ -11,7 +11,7 @@
 
 **(pas très important, mais augmente les chances d'à avoir les mêmes interfaces pendant le cours)**
 
-![MongoDB](images/mongodb_first_form.png)
+![MongoDB](../images/mongodb_first_form.png)
 
 ### Second formulaire (création du cluster)
 
@@ -23,7 +23,7 @@
 - Name : **Cluster0**
 
 
-![MongoDB](images/mongodb_second_form.png)
+![MongoDB](../images/mongodb_second_form.png)
 
 
 
@@ -35,7 +35,7 @@
 - Authentification avec username et password **Penser à sauvegarder le mot de passe**
 - Se conncter depuis sa marchine : ajouter son IP
 
-![MongoDB](images/mongodb_third_form_1.png)
+![MongoDB](../images/mongodb_third_form_1.png)
 
-![MongoDB](images/mongodb_third_form_2.png)
+![MongoDB](../images/mongodb_third_form_2.png)
 
