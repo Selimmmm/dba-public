@@ -26,10 +26,17 @@
 
 # TPs
 
-## TP 1 
 - Si besoin, pour se connecter à la BDD northwind avec VS Code : `setup/setup_vscode.ipynb`
 
-## TP 2
+## TP 1 - SQL : rapatrier et filtrer
+
+## TP 2 - SQL : Jointures, aggrégations, ensembles et sous-requêtes
+
+## TP 3 - SQL : Modification de données, gestion de tables et types
+
+## TP 4 - SQL : Notions avancées
+
+## TP 5 - MongoDB : Opérations classiques
 
 
 # Projet en classe
