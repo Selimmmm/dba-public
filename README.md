@@ -40,6 +40,7 @@
 
 ## TP 5 - MongoDB : Opérations classiques
 
+## TP 6 - Tricks : 
 
 # Projet en classe
 
