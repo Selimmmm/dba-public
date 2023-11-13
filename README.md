@@ -17,6 +17,8 @@
 
 - Suivre la [documentation officielle](https://www.postgresql.org/download/)
 - Tester ensuite la connexion avec `connect/postgresql.ipynb`
+- Utilisateur par défaut : `postgresql` et mot de passe par défaut : `root` (ou `admin`)SELECT * FROM customers;
+
 
 ## Installer MongoDB 
 
@@ -42,6 +44,5 @@
 # Projet en classe
 
 # Projet évalué
-
 
 # Ressources supplémentaires
