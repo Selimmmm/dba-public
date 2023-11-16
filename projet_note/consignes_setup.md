@@ -140,5 +140,5 @@ projet_note
 - Reproduire la démarche précédente, toujours avec SQL dans un fichier `test_env.ipynb`
 - Dans le même notebook : créer une connexion distante à MongoDB.com
 - Créer une base de données `course`
-- Créer deux collections `tp` et `notebooks` avec des champs correspondant aux colonnes des tables SQL
+- Créer deux collections `tp` et `notebook` avec des champs correspondant aux colonnes des tables SQL
 - Écrire une fonction qui permet d'afficher les mêmes données que la vue `tp_and_notebook`
