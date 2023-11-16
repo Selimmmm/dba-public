@@ -123,9 +123,12 @@ projet_note
         - La table `notebooks` contient `notebook_id` et `tp_id` (qui est une Foreign Key sur `tp`) et `notebook_name` (0_sql_intro_northwind.ipynb... seulement les notebooks, pas les autres fichiers)
         - Insérer les données pour les 2 premiers tps
 
+
+- Dans un fichier `test_env_view.sql`, écrire le code SQL pour : 
+
     - Créer une vue `tp_and_notebook` qui permet d'afficher tout le contenu de la table `notebook` ainsi que le `tp_name` pour chaque notebook
 
-    - Vérifier que tout fonctionne : `psql -U <user> -d course -f test_env.sql`
+    - Vérifier que tout fonctionne : `psql -U <user> -d course -f test_env_view.sql`
 
 
 
