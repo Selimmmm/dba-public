@@ -53,11 +53,11 @@ Insérer 100 utilisateurs avec des données crédibles, les comptes ont été cr
 
 ## b.
 
-Insérer 85 vérification d'emails (1 seule par utilisateur max). Les vérifications ne peuvent pas être postérieures à la création du compte. Les valeurs de `verified_at` sont comprises entre le 01/01/2023 et le 30/06/2023.
+Insérer 85 vérification d'emails (1 seule par utilisateur max). Les vérifications ne peuvent pas être antérieures à la création du compte. Les valeurs de `verified_at` sont comprises entre le 01/01/2023 et le 30/06/2023.
 
 ## c.
 
-Insérer 1000 sessions pour des `connected_at` comprises entre le 01/01/2023 et le 30/06/2023. Il doit y avoir des valeurs sur les 6 mois. Les sessions ne peuvent pas être postérieures à la création du compte, ni à la vérification de l'email. 
+Insérer 1000 sessions pour des `connected_at` comprises entre le 01/01/2023 et le 30/06/2023. Il doit y avoir des valeurs sur les 6 mois. Les sessions ne peuvent pas être antérieures à la création du compte, ni à la vérification de l'email. 
 
 
 **Vérifier que tout fonctionne : `psql -U <user> -d app_auth -f part_1_2.sql`**
