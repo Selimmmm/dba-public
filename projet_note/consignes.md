@@ -26,11 +26,11 @@ Vous choisirez les types adéquats pour les colonnes, et créerez des colonnes d
 
 **Créer les tables suivantes :**
 
-- `user` : `user_id`, `firstname`, `lastname`, `email`, `username`, `password`, `created_at`
+- `user_table` : `user_id`, `firstname`, `lastname`, `email`, `username`, `password`, `created_at`
 
-- `user_email_verification` : `uev_id`, `user_id`, `verified_at`
+- `user_email_verification_table` : `uev_id`, `user_id`, `verified_at`
 
-- `session` : `session_id`,  `user_id`, `connected_at`
+- `session_table` : `session_id`,  `user_id`, `connected_at`
 
 
 ### b. 
